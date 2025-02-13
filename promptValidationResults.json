@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 2,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 3,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 4,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 5,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 6,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 7,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 8,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 9,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 10,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 11,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 12,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 13,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 14,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 15,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 16,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 17,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 18,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 19,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 20,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 21,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 22,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 23,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 24,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 25,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 26,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 27,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 28,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 29,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 30,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 31,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 32,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 33,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 34,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 35,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 36,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 37,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 38,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 39,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 40,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 41,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 42,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 43,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 44,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 45,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 46,
+    "clarity": false,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 47,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 48,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  },
+  {
+    "id": 49,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Positive"
+  },
+  {
+    "id": 50,
+    "clarity": true,
+    "relevance": false,
+    "flaggedWords": false,
+    "lengthValid": true,
+    "sentiment": "Neutral"
+  }
+]

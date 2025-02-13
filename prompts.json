@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "category": "ACT",
+        "prompt": "Identify the grammatical error in the following sentence: 'Each of the students was responsible for their own homework.'",
+        "difficulty": "Medium",
+        "answer_format": "Essay",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 2,
+        "category": "GMAT",
+        "prompt": "If a company\u2019s revenue increased by 38% in one year and 26% the next year, what was the total percentage increase over two years?",
+        "difficulty": "Easy",
+        "answer_format": "Logical Reasoning",
+        "source_reference": "LSAT Logical Section"
+    },
+    {
+        "id": 3,
+        "category": "SAT",
+        "prompt": "Solve for x in the equation: 10x + 10 = 12.",
+        "difficulty": "Hard",
+        "answer_format": "Multiple Choice",
+        "source_reference": "Official SAT Sample"
+    },
+    {
+        "id": 4,
+        "category": "MCAT",
+        "prompt": "Describe the function of the mitochondria in cellular metabolism.",
+        "difficulty": "Hard",
+        "answer_format": "Short Answer",
+        "source_reference": "LSAT Logical Section"
+    },
+    {
+        "id": 5,
+        "category": "LSAT",
+        "prompt": "Which of the following statements, if true, would most weaken the argument that economic growth leads to social stability?",
+        "difficulty": "Medium",
+        "answer_format": "Multiple Choice",
+        "source_reference": "Past GMAT Exam"
+    },
+    {
+        "id": 6,
+        "category": "MCAT",
+        "prompt": "Describe the function of the ribosome in cellular metabolism.",
+        "difficulty": "Hard",
+        "answer_format": "Multiple Choice",
+        "source_reference": "LSAT Logical Section"
+    },
+    {
+        "id": 7,
+        "category": "GMAT",
+        "prompt": "If a company\u2019s revenue increased by 41% in one year and 11% the next year, what was the total percentage increase over two years?",
+        "difficulty": "Medium",
+        "answer_format": "Short Answer",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 8,
+        "category": "MCAT",
+        "prompt": "Describe the function of the nucleus in cellular metabolism.",
+        "difficulty": "Medium",
+        "answer_format": "Logical Reasoning",
+        "source_reference": "Official SAT Sample"
+    },
+    {
+        "id": 9,
+        "category": "ACT",
+        "prompt": "Identify the grammatical error in the following sentence: 'Each of the students were responsible for their own homework.'",
+        "difficulty": "Medium",
+        "answer_format": "Multiple Choice",
+        "source_reference": "Official SAT Sample"
+    },
+    {
+        "id": 10,
+        "category": "SAT",
+        "prompt": "Solve for x in the equation: 5x + 5 = 13.",
+        "difficulty": "Easy",
+        "answer_format": "Essay",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 11,
+        "category": "LSAT",
+        "prompt": "Which of the following statements, if true, would most weaken the argument that free markets always result in fair pricing?",
+        "difficulty": "Easy",
+        "answer_format": "Logical Reasoning",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 12,
+        "category": "LSAT",
+        "prompt": "Which of the following statements, if true, would most weaken the argument that free markets always result in fair pricing?",
+        "difficulty": "Easy",
+        "answer_format": "Multiple Choice",
+        "source_reference": "LSAT Logical Section"
+    },
+    {
+        "id": 13,
+        "category": "GMAT",
+        "prompt": "If a company\u2019s revenue increased by 30% in one year and 40% the next year, what was the total percentage increase over two years?",
+        "difficulty": "Medium",
+        "answer_format": "Multiple Choice",
+        "source_reference": "LSAT Logical Section"
+    },
+    {
+        "id": 14,
+        "category": "LSAT",
+        "prompt": "Which of the following statements, if true, would most weaken the argument that economic growth leads to social stability?",
+        "difficulty": "Easy",
+        "answer_format": "Short Answer",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 15,
+        "category": "ACT",
+        "prompt": "Identify the grammatical error in the following sentence: 'Each of the students were responsible for their own homework.'",
+        "difficulty": "Hard",
+        "answer_format": "Multiple Choice",
+        "source_reference": "Official SAT Sample"
+    },
+    {
+        "id": 16,
+        "category": "GMAT",
+        "prompt": "If a company\u2019s revenue increased by 38% in one year and 13% the next year, what was the total percentage increase over two years?",
+        "difficulty": "Easy",
+        "answer_format": "Short Answer",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 17,
+        "category": "MCAT",
+        "prompt": "Describe the function of the ribosome in cellular metabolism.",
+        "difficulty": "Medium",
+        "answer_format": "Logical Reasoning",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 18,
+        "category": "ACT",
+        "prompt": "Identify the grammatical error in the following sentence: 'Each of the students were responsible for their own homework.'",
+        "difficulty": "Hard",
+        "answer_format": "Short Answer",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 19,
+        "category": "MCAT",
+        "prompt": "Describe the function of the mitochondria in cellular metabolism.",
+        "difficulty": "Hard",
+        "answer_format": "Multiple Choice",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 20,
+        "category": "ACT",
+        "prompt": "Identify the grammatical error in the following sentence: 'Each of the students was responsible for their own homework.'",
+        "difficulty": "Hard",
+        "answer_format": "Short Answer",
+        "source_reference": "Past GMAT Exam"
+    },
+    {
+        "id": 21,
+        "category": "ACT",
+        "prompt": "Identify the grammatical error in the following sentence: 'Each of the students were responsible for their own homework.'",
+        "difficulty": "Hard",
+        "answer_format": "Multiple Choice",
+        "source_reference": "Past GMAT Exam"
+    },
+    {
+        "id": 22,
+        "category": "GMAT",
+        "prompt": "If a company\u2019s revenue increased by 11% in one year and 34% the next year, what was the total percentage increase over two years?",
+        "difficulty": "Easy",
+        "answer_format": "Logical Reasoning",
+        "source_reference": "Past GMAT Exam"
+    },
+    {
+        "id": 23,
+        "category": "MCAT",
+        "prompt": "Describe the function of the nucleus in cellular metabolism.",
+        "difficulty": "Medium",
+        "answer_format": "Multiple Choice",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 24,
+        "category": "MCAT",
+        "prompt": "Describe the function of the nucleus in cellular metabolism.",
+        "difficulty": "Easy",
+        "answer_format": "Multiple Choice",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 25,
+        "category": "MCAT",
+        "prompt": "Describe the function of the ribosome in cellular metabolism.",
+        "difficulty": "Medium",
+        "answer_format": "Multiple Choice",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 26,
+        "category": "MCAT",
+        "prompt": "Describe the function of the ribosome in cellular metabolism.",
+        "difficulty": "Easy",
+        "answer_format": "Multiple Choice",
+        "source_reference": "Official SAT Sample"
+    },
+    {
+        "id": 27,
+        "category": "ACT",
+        "prompt": "Identify the grammatical error in the following sentence: 'Each of the students was responsible for their own homework.'",
+        "difficulty": "Medium",
+        "answer_format": "Essay",
+        "source_reference": "Official SAT Sample"
+    },
+    {
+        "id": 28,
+        "category": "GMAT",
+        "prompt": "If a company\u2019s revenue increased by 50% in one year and 42% the next year, what was the total percentage increase over two years?",
+        "difficulty": "Medium",
+        "answer_format": "Short Answer",
+        "source_reference": "Past GMAT Exam"
+    },
+    {
+        "id": 29,
+        "category": "ACT",
+        "prompt": "Identify the grammatical error in the following sentence: 'Each of the students was responsible for their own homework.'",
+        "difficulty": "Medium",
+        "answer_format": "Essay",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 30,
+        "category": "MCAT",
+        "prompt": "Describe the function of the ribosome in cellular metabolism.",
+        "difficulty": "Easy",
+        "answer_format": "Short Answer",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 31,
+        "category": "GMAT",
+        "prompt": "If a company\u2019s revenue increased by 18% in one year and 31% the next year, what was the total percentage increase over two years?",
+        "difficulty": "Hard",
+        "answer_format": "Multiple Choice",
+        "source_reference": "Official SAT Sample"
+    },
+    {
+        "id": 32,
+        "category": "GMAT",
+        "prompt": "If a company\u2019s revenue increased by 30% in one year and 38% the next year, what was the total percentage increase over two years?",
+        "difficulty": "Medium",
+        "answer_format": "Short Answer",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 33,
+        "category": "MCAT",
+        "prompt": "Describe the function of the mitochondria in cellular metabolism.",
+        "difficulty": "Hard",
+        "answer_format": "Multiple Choice",
+        "source_reference": "LSAT Logical Section"
+    },
+    {
+        "id": 34,
+        "category": "ACT",
+        "prompt": "Identify the grammatical error in the following sentence: 'Each of the students were responsible for their own homework.'",
+        "difficulty": "Easy",
+        "answer_format": "Multiple Choice",
+        "source_reference": "Official SAT Sample"
+    },
+    {
+        "id": 35,
+        "category": "LSAT",
+        "prompt": "Which of the following statements, if true, would most weaken the argument that economic growth leads to social stability?",
+        "difficulty": "Medium",
+        "answer_format": "Essay",
+        "source_reference": "LSAT Logical Section"
+    },
+    {
+        "id": 36,
+        "category": "SAT",
+        "prompt": "Solve for x in the equation: 6x + 1 = 14.",
+        "difficulty": "Easy",
+        "answer_format": "Short Answer",
+        "source_reference": "Official SAT Sample"
+    },
+    {
+        "id": 37,
+        "category": "GMAT",
+        "prompt": "If a company\u2019s revenue increased by 24% in one year and 24% the next year, what was the total percentage increase over two years?",
+        "difficulty": "Easy",
+        "answer_format": "Short Answer",
+        "source_reference": "Past GMAT Exam"
+    },
+    {
+        "id": 38,
+        "category": "GMAT",
+        "prompt": "If a company\u2019s revenue increased by 32% in one year and 20% the next year, what was the total percentage increase over two years?",
+        "difficulty": "Hard",
+        "answer_format": "Multiple Choice",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 39,
+        "category": "SAT",
+        "prompt": "Solve for x in the equation: 9x + 3 = 19.",
+        "difficulty": "Medium",
+        "answer_format": "Short Answer",
+        "source_reference": "LSAT Logical Section"
+    },
+    {
+        "id": 40,
+        "category": "SAT",
+        "prompt": "Solve for x in the equation: 1x + 5 = 20.",
+        "difficulty": "Medium",
+        "answer_format": "Short Answer",
+        "source_reference": "Official SAT Sample"
+    },
+    {
+        "id": 41,
+        "category": "ACT",
+        "prompt": "Identify the grammatical error in the following sentence: 'Each of the students were responsible for their own homework.'",
+        "difficulty": "Easy",
+        "answer_format": "Essay",
+        "source_reference": "LSAT Logical Section"
+    },
+    {
+        "id": 42,
+        "category": "LSAT",
+        "prompt": "Which of the following statements, if true, would most weaken the argument that free markets always result in fair pricing?",
+        "difficulty": "Easy",
+        "answer_format": "Short Answer",
+        "source_reference": "LSAT Logical Section"
+    },
+    {
+        "id": 43,
+        "category": "MCAT",
+        "prompt": "Describe the function of the ribosome in cellular metabolism.",
+        "difficulty": "Hard",
+        "answer_format": "Essay",
+        "source_reference": "LSAT Logical Section"
+    },
+    {
+        "id": 44,
+        "category": "LSAT",
+        "prompt": "Which of the following statements, if true, would most weaken the argument that free markets always result in fair pricing?",
+        "difficulty": "Easy",
+        "answer_format": "Essay",
+        "source_reference": "Past GMAT Exam"
+    },
+    {
+        "id": 45,
+        "category": "ACT",
+        "prompt": "Identify the grammatical error in the following sentence: 'Each of the students was responsible for their own homework.'",
+        "difficulty": "Hard",
+        "answer_format": "Essay",
+        "source_reference": "MCAT Biology Section"
+    },
+    {
+        "id": 46,
+        "category": "LSAT",
+        "prompt": "Solve for x: 2x + 3 = 9",
+        "difficulty": "Easy",
+        "answer_format": "Logical Reasoning",
+        "source_reference": "Misclassified Example"
+    },
+    {
+        "id": 47,
+        "category": "MCAT",
+        "prompt": "What is the capital of France?",
+        "difficulty": "Easy",
+        "answer_format": "Logical Reasoning",
+        "source_reference": "Misclassified Example"
+    },
+    {
+        "id": 48,
+        "category": "GMAT",
+        "prompt": "Translate 'hello' to Spanish.",
+        "difficulty": "Easy",
+        "answer_format": "Multiple Choice",
+        "source_reference": "Misclassified Example"
+    },
+    {
+        "id": 49,
+        "category": "ACT",
+        "prompt": "Who won the Super Bowl in 1999?",
+        "difficulty": "Medium",
+        "answer_format": "Short Answer",
+        "source_reference": "Misclassified Example"
+    },
+    {
+        "id": 50,
+        "category": "SAT",
+        "prompt": "Define the term 'quantum entanglement'.",
+        "difficulty": "Hard",
+        "answer_format": "Logical Reasoning",
+        "source_reference": "Misclassified Example"
+    }
+]
